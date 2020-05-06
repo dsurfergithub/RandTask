@@ -11,5 +11,13 @@ public class Jugador {
 		this.nom = nom;
 		this.posicio=posicio;
 	}
-
+	public void setPosicio(String posicio){
+        this.posicio = posicio;
+    }
+	
+	public String getPosicio(){
+        return this.posicio;
+    }
 }
+
+
