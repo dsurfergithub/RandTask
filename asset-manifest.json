@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RandTask/static/css/main.85396b73.css",
+    "main.js": "/RandTask/static/js/main.4be8f379.js",
+    "static/js/453.8ade756a.chunk.js": "/RandTask/static/js/453.8ade756a.chunk.js",
+    "index.html": "/RandTask/index.html",
+    "main.85396b73.css.map": "/RandTask/static/css/main.85396b73.css.map",
+    "main.4be8f379.js.map": "/RandTask/static/js/main.4be8f379.js.map",
+    "453.8ade756a.chunk.js.map": "/RandTask/static/js/453.8ade756a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85396b73.css",
+    "static/js/main.4be8f379.js"
+  ]
+}
